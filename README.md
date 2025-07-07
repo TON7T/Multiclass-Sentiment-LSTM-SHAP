@@ -37,7 +37,7 @@ Este dataset contiene textos en inglés etiquetados con seis categorías emocion
 
 ---
 
-🧠 Aplicación interactiva de clasificación emocional
+## 🧠 Aplicación interactiva de clasificación emocional
 
 Se ha desarrollado una aplicación interactiva que permite al usuario ingresar una frase y obtener:
 
