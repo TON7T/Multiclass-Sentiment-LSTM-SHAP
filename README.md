@@ -20,6 +20,15 @@ El modelo final alcanza una **precisión del 94 %** en el conjunto de prueba.
 
 ---
 
+## 🗃️ Origen de los datos
+
+El conjunto de datos utilizado en este proyecto proviene del repositorio de Kaggle:
+
+> 📥 https://www.kaggle.com/datasets/nelgiriyewithana/emotions/data
+
+Este dataset contiene textos en inglés etiquetados con seis categorías emocionales: sadness, joy, love, anger, fear y surprise.
+
+
 ## 🧠 Tecnologías utilizadas
 
 - Python 3.10+
@@ -35,12 +44,9 @@ El modelo final alcanza una **precisión del 94 %** en el conjunto de prueba.
 
 ```plaintext
 .
-├── data/                     # Conjuntos de datos (limpios y raw)
-├── notebooks/                # Cuadernos de exploración y visualización
-├── models/                   # Entrenamiento y arquitectura del modelo
-├── shap_analysis/            # Resultados e interpretabilidad
-├── utils/                    # Funciones auxiliares
-├── results/                  # Reportes, gráficos y métricas finales
+├── Trabajo_Titulacion/       # Entrenamiento y arquitectura del modelo
 ├── requirements.txt          # Dependencias del proyecto
 ├── README.md                 # Este archivo
-└── LICENSE                   # Licencia (MIT por defecto)
+├── data/                     # App para usarla en producción
+
+
