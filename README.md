@@ -1,7 +1,4 @@
 # Multiclass-Sentiment-LSTM-SHAP
-Deep learning para análisis de sentimientos multiclase en inglés, usando redes LSTM, embeddings FastText y explicaciones con SHAP. Incluye búsqueda de hiperparámetros exhaustiva y visualización de interpretabilidad.
-
-# Multiclass-Sentiment-LSTM-SHAP
 
 Análisis de sentimientos multiclase en textos en inglés utilizando redes neuronales recurrentes (LSTM bidireccional), embeddings preentrenados (FastText) y técnicas de interpretabilidad como SHAP. Este repositorio contiene todo el flujo de trabajo, desde la preparación de datos hasta el análisis explicativo de los resultados.
 
