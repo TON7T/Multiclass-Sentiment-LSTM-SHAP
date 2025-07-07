@@ -37,10 +37,26 @@ Este dataset contiene textos en inglés etiquetados con seis categorías emocion
 
 ---
 
+🧠 Aplicación interactiva de clasificación emocional
+
+Se ha desarrollado una aplicación interactiva que permite al usuario ingresar una frase y obtener:
+
+- La emoción detectada con su respectivo nivel de confianza.
+- Una visualización de las probabilidades asignadas por el modelo a cada clase emocional.
+- Una explicación detallada con valores SHAP que muestran la importancia de cada token en la predicción.
+- Una simulación de atención basada en los valores SHAP, indicando qué palabras influyeron más.
+- Una representación del espacio de embeddings del texto ingresado.
+
+👉 En esta aplicación se encuentra embebido el modelo entrenado y todos los recursos necesarios para utilizarlo como un **intérprete de emociones transparente y explicable**.
+
+🔗 Puedes acceder a la aplicación aquí:
+
+---
+
 ## 📁 Estructura del repositorio
 
 ```plaintext
-.
+
 ├── Trabajo_Titulacion/       # Entrenamiento y arquitectura del modelo
 ├── requirements.txt          # Dependencias del proyecto
 ├── README.md                 # Este archivo
