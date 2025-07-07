@@ -60,6 +60,4 @@ Se ha desarrollado una aplicación interactiva que permite al usuario ingresar u
 ├── Trabajo_Titulacion/       # Entrenamiento y arquitectura del modelo
 ├── requirements.txt          # Dependencias del proyecto
 ├── README.md                 # Este archivo
-├── data/                     # App para usarla en producción
-
 
