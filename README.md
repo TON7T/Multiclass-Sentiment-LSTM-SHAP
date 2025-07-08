@@ -50,6 +50,7 @@ Se ha desarrollado una aplicación interactiva que permite al usuario ingresar u
 👉 En esta aplicación se encuentra embebido el modelo entrenado y todos los recursos necesarios para utilizarlo como un **intérprete de emociones transparente y explicable**.
 
 🔗 Puedes acceder a la aplicación aquí:
+https://mailinternacionaledu-my.sharepoint.com/:f:/g/personal/kevelascoba_uide_edu_ec/EoHM-XsBeNhFv1Zhg9hp9awB4obCxWWrcqDreIYP7H7kAQ?e=M22zPm
 
 ---
 
